@@ -3,6 +3,7 @@ GR-TN-rano
    1. Gabriel Ceballos 203972
       Łukasz Kowal 203971
       Projekt A - wstępnie 
+   2. Daniel Słowik 204003 - kontroler budynku inteligentnego
       
 GR-TP-rano
    1. Beata Jerzak 204029, Rafał Giemza 204024 Projekt B
