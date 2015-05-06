@@ -11,6 +11,9 @@ GR-TP-rano
 GR-TN-wieczór
    1. Sebastian Lawniczak 204068 (coś w stylu Projektu A: Android + beaglebone)
    2. Wojciech Małecki 204018 (Projekt A - wstępnie)
+   3. Joanna Indyka 204006
+      Aleksandra Jurkowska 203986      -Panel sterowania inteligetnego oswietlenia.
+      Kaja Chade 196900 ( z rana TN)
 
 GR-TP-rano
    1.Przemyslaw Rogoz 204047} sterownik UDP
