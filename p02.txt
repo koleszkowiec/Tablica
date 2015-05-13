@@ -4,6 +4,7 @@ GR-TN-rano
       Łukasz Kowal 203971
       Projekt A - wstępnie 
    2. Daniel Słowik 204003 - kontroler budynku inteligentnego
+   3. Marcin Pokojowy 203979 - system zarzadzajacy czujnikami
       
 GR-TP-rano
    1. Beata Jerzak 204029, Rafał Giemza 204024 Projekt B
