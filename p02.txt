@@ -15,12 +15,14 @@ GR-TN-wieczór
    3. Joanna Indyka 204006
       Aleksandra Jurkowska 203986      -Panel sterowania inteligetnego oswietlenia.
       Kaja Chade 196900 ( z rana TN)
+   4. Sebastian Jakubik 192082 , Michał Cieśla 204005 -> Kółko i krzyżyk  
 
 GR-TP-rano
    1.Przemyslaw Rogoz 204047} sterownik UDP
    2.Pawel Pokryszka 204013} 
    3.Alicja Barzańska 204020-co w stylu projektu A
    4.Barbara Gorczyca 204002 - coś w stylu projektu A
+   5.Daniel Wencel 204036 - wstępnie coś w stylu projektu A 
 
 GR-TP-wieczór
    1. Rafał Mazerant 186935 + Piotr Małecki-Jurek 183381 Projekt A
