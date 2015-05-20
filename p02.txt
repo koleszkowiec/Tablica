@@ -16,6 +16,7 @@ GR-TN-wieczór
       Aleksandra Jurkowska 203986      -Panel sterowania inteligetnego oswietlenia.
       Kaja Chade 196900 ( z rana TN)
    4. Sebastian Jakubik 192082 , Michał Cieśla 204005 -> Kółko i krzyżyk  
+   5. Wojciech Lalik 204010, Łukasz Kuyk 203998 - Gadu-Gadu
 
 GR-TP-rano
    1.Przemyslaw Rogoz 204047} sterownik UDP
