@@ -24,6 +24,7 @@ GR-TP-rano
    3.Alicja Barzańska 204020-co w stylu projektu A
    4.Barbara Gorczyca 204002 - coś w stylu projektu A
    5.Daniel Wencel 204036 - wstępnie coś w stylu projektu A 
+   6.Joanna Furs 204023- cos w stylu projektu A
 
 GR-TP-wieczór
    1. Rafał Mazerant 186935 + Piotr Małecki-Jurek 183381 Projekt A
