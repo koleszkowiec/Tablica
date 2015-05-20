@@ -17,7 +17,7 @@ GR-TN-wieczór
       Kaja Chade 196900 ( z rana TN)
    4. Sebastian Jakubik 192082 , Michał Cieśla 204005 -> Kółko i krzyżyk  
    5. Wojciech Lalik 204010, Łukasz Kuyk 203998 (Grupa TN rano) - Gadu-Gadu
-
+   6. Łukasz Duda 201083, Mateusz Dydyna 203994 (Grupa TN rano) - Serwer firmy z baza danych SQL
 GR-TP-rano
    1.Przemyslaw Rogoz 204047} sterownik UDP
    2.Pawel Pokryszka 204013} 
